@@ -8,6 +8,9 @@ public class TestMain {
         System.out.println(myWallet.addMoney(120.5));
         System.out.println(myWallet);
         System.out.println("Test");
+        System.out.println("Test");
+        System.out.println("Test");
         //ghj
+
     }
 }
