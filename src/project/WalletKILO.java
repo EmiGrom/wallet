@@ -1,14 +1,15 @@
 package project;
 
-public class MyWallet extends Wallet {
+public class WalletKILO extends Wallet {
     private double money;
-    public MyWallet() {
-        moneyType = MoneyType.PLN;
-        money = 200.0;
+
+    public WalletKILO(double money) {
+        MoneyType moneyType1 = moneyType.KILO;
+        this.money = 11;
     }
     @Override
     public double addMoney(double money) {
-        return this.money +=  money;
+        return this.money += money;
     }
     @Override
     public double spendingMoney(double money) {

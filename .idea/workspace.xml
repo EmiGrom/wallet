@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f798562-2d79-4056-a53c-7ebe58ed721b" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="5f798562-2d79-4056-a53c-7ebe58ed721b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/WalletGR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/WalletKILO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wallet/META-INF/Wallet.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wallet/project/MoneyType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wallet/project/MoneyType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wallet/project/MyWallet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wallet/project/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wallet/project/TestMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wallet/project/Wallet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wallet/project/Wallet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/MyWallet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/WalletPLN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Wallet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Wallet.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,22 +37,18 @@
   </component>
   <component name="ProjectId" id="1Z1aMiOx6jbKOpYAfU9cuzHddxr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.TestMain">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="project.Main" />
       <module name="Wallet" />
@@ -66,8 +77,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestMain" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TestMain" />
       </list>
     </recent_temporary>
   </component>
@@ -81,18 +92,59 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584009007874</updated>
+      <workItem from="1584520944371" duration="11181000" />
+      <workItem from="1584533475047" duration="240000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1238" y="164" key="#com.intellij.ide.util.MemberChooser" timestamp="1584525097542">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1238" y="164" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584525097542" />
+    <state x="1254" y="404" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584521105134">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1254" y="404" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584521105134" />
+    <state x="1175" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584521538819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1175" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584521538819" />
+    <state width="827" height="266" key="GridCell.Tab.0.bottom" timestamp="1584533407894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="827" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584533407894" />
+    <state width="827" height="266" key="GridCell.Tab.0.center" timestamp="1584533407894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="827" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584533407894" />
+    <state width="827" height="266" key="GridCell.Tab.0.left" timestamp="1584533407894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="827" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584533407894" />
+    <state width="827" height="266" key="GridCell.Tab.0.right" timestamp="1584533407894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="827" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584533407894" />
+    <state x="1160" y="78" key="refactoring.ChangeSignatureDialog" timestamp="1584529793159">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1160" y="78" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584529793159" />
   </component>
 </project>
