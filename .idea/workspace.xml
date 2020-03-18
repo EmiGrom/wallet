@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f798562-2d79-4056-a53c-7ebe58ed721b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project/WalletGR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project/WalletKILO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Wallet/META-INF/Wallet.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Wallet/project/MoneyType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wallet/project/MoneyType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Wallet/project/MyWallet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Wallet/project/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wallet/project/TestMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Wallet/project/Wallet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wallet/project/Wallet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project/MyWallet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/WalletPLN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/TestMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project/Wallet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Wallet.java" afterDir="false" />
-    </list>
+    <list default="true" id="5f798562-2d79-4056-a53c-7ebe58ed721b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,8 +77,23 @@
       <option name="presentableId" value="Default" />
       <updated>1584009007874</updated>
       <workItem from="1584520944371" duration="11181000" />
-      <workItem from="1584533475047" duration="240000" />
+      <workItem from="1584533475047" duration="481000" />
     </task>
+    <task id="LOCAL-00001" summary="testowe">
+      <created>1584533813789</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584533813789</updated>
+    </task>
+    <task id="LOCAL-00002" summary="testowe">
+      <created>1584533954430</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584533954430</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +112,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="testowe" />
+    <option name="LAST_COMMIT_MESSAGE" value="testowe" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="1238" y="164" key="#com.intellij.ide.util.MemberChooser" timestamp="1584525097542">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -126,10 +129,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1175" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584521538819" />
-    <state x="948" y="47" key="CommitChangelistDialog2" timestamp="1584533806736">
+    <state x="948" y="47" key="CommitChangelistDialog2" timestamp="1584533951412">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="948" y="47" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584533806736" />
+    <state x="948" y="47" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584533951412" />
     <state width="827" height="266" key="GridCell.Tab.0.bottom" timestamp="1584533407894">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
