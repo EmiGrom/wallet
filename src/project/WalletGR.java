@@ -4,8 +4,8 @@ public class WalletGR extends Wallet {
     private double money;
 
     public WalletGR(double money) {
-        MoneyType moneyType1 = moneyType.GR;
-        this.money = 23;
+        MoneyType moneyType2 = moneyType.GR;
+        this.money = money;
     }
     @Override
     public double addMoney(double money) {

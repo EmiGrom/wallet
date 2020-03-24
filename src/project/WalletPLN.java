@@ -6,7 +6,7 @@ public class WalletPLN extends Wallet {
     public WalletPLN(double money) {
        // moneyType = MoneyType.PLN;
         MoneyType moneyType1 = moneyType.PLN;
-        //this.money = 200.0;
+        this.money = money;
     }
     @Override
     public double addMoney(double money) {

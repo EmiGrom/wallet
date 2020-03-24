@@ -1,10 +1,7 @@
 package project;
-
 import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {//psvm
-
         Scanner scanner = new Scanner(System.in);
         System.out.println("witaj w moim portfelu: najpierw wybierz walute:\n 1.PLN\n 2.EUR\n 3.USD");
         int typ = scanner.nextInt();
@@ -15,20 +12,22 @@ public class Main {
 
         switch (typ) {
             case 1:
+               // double money = scanner.nextDouble();
                 wallet = new WalletPLN(money);
                 break;
             case 2:
+               // money = scanner.nextDouble();
                 wallet = new WalletGR(money);
                 break;
             case 3:
+              //  money = scanner.nextDouble();
                 wallet = new WalletKILO(money);
                 break;
             default:
                 System.out.println("wybór niemożliwy");
-                //System.out.println(wallet);
+                System.out.println(wallet);
         }
         run(scanner, wallet);
-
     }
     private static void run(Scanner scanner, Wallet wallet) {
         Character operation;
