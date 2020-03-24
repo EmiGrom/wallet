@@ -4,8 +4,8 @@ public class WalletPLN extends Wallet {
     private double money;
 
     public WalletPLN(double money) {
-       // moneyType = MoneyType.PLN;
-        MoneyType moneyType1 = moneyType.PLN;
+       moneyType = MoneyType.PLN;
+        //MoneyType moneyType1 = moneyType.PLN;
         this.money = money;
     }
     @Override
