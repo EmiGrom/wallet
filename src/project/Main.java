@@ -28,7 +28,7 @@ public class Main {////666
     }
     private static void run(Scanner scanner, Wallet wallet) {
         Character operation;
-        System.out.println("Podaj rodzaj operacji: \n + wpłacanie \n - wypłacanie \n x koniec ");
+        System.out.println("Podaj rodzaj operacji: \n + wpłacanie \n - wypłacanie \n x koniec/powrót ");
         operation = scanner.next().charAt(0);
 
         switch (operation) {
@@ -49,7 +49,5 @@ public class Main {////666
                 System.out.println(wallet);
         }
         run(scanner, wallet);
-
-
     }
 }
